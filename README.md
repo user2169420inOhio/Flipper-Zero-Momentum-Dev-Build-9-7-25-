@@ -1,2 +1,5 @@
 # Flipper-Zero-Momentum-Dev-Build-9-7-25-
-This is a Momentum Firmware Dev Build for flipper zero. This version of the Dev Build is F09942A4
+This is a Momentum Firmware Dev Build for flipper zero. This version of the Dev Build is F09942A4 published in the MNTM Discord server and I Included a 5G Wi-Fi Deauth for a RTL8720DN-BW16 Kit for flipper zero you probably might've bought on Amazon and can't find the app.
+
+# How to install Firmware
+To Install the firmware You will need qFlipper on a computer Windows, MacOs, Or linux. Open qFlipper and make sure your flipper zero is plugged in your computer. On the menu look for the option that says "Install from file", Click it, Now look for the the file that says "flipper-z-f7-update-mntm-dev-f09942a4.tgz" and double click it to install then once it qFlipper Asks "Install from file?" Click Install. It should now be Installing your firmware. There are ohter ways to install firmware the easist for this file is the Install from File method. So now you can wait for flipper to get its update file once installed it will install the full file directly on the flipper.
